@@ -1,0 +1,57 @@
+/* css rule */
+
+
+
+
+
+/* background text font padding margin border */
+
+header {
+    background: blue;
+    color:whitesmoke;
+}
+
+footer {
+    text-align: center;
+    text-decoration: underline red dotted;
+    font-size: small;
+    font-style: italic;
+}
+
+#LeadId {
+    font-weight: bold;
+    font-size: large;
+    font-variant: small-caps;
+}
+
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+header {
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+.NavSidebar {
+    float: left;
+    padding-right: 20px;
+}
+
+figure {
+    float: right;
+    padding-left: 10px;
+    width: 150px;
+}
+
+.PullQuote {
+    float: right;
+    width:200px;
+    border-top: thin black solid;
+    border-bottom: thick black solid;
+    padding:10px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    margin-left: 14px;
+}
